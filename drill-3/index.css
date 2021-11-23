@@ -1,0 +1,44 @@
+* {
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+
+}
+header{
+    height:15vh;
+    background-color:lightgray;
+    display:flex;
+    align-items:center;
+    padding:25px;
+}
+#icon {
+    height:5vw;
+    width:5vw;
+    background-color:royalblue
+
+}
+.text-container{
+    height:40vh;
+    padding:5%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+p {
+    margin:10px;
+}
+.container {
+    height:25vh;
+    width:100%;    
+    background-color:royalblue;
+}
+.cyan {
+    background-color:cyan;
+}
+.green{
+    background-color:greenyellow
+}
+.yellow {
+    background-color:yellow 
+}

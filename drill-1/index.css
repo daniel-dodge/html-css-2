@@ -1,0 +1,26 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header {
+    height:100px;
+    background-color:gray;
+}
+body {
+    background-color:lightgray
+}
+.white {
+    width: 55vw;
+    height: 100vh;
+    margin: 0 auto;
+    background-color:white;
+
+}
+.black {
+    background-color:black;
+    bottom:0;
+    height:10vh;
+    width: 55vw;
+    margin: 0 auto;
+}
